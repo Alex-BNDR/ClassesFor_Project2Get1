@@ -1,0 +1,7 @@
+.idea/
+
+target/
+src/test
+src/main/java/App.java
+java/App.java
+App
